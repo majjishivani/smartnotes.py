@@ -1,9 +1,8 @@
-streamlit
+streamlit==1.45.1
 transformers==4.35.2
-torch==2.7.1
-speechrecognition
-moviepy
-opencv-python
-pytesseract
-Pillow
 nltk
+moviepy==1.0.3
+pytesseract
+opencv-python-headless
+Pillow
+torch==2.7.1
