@@ -1,6 +1,6 @@
 streamlit
 transformers==4.35.2
-torch==2.1.0
+torch==2.7.1
 speechrecognition
 moviepy
 opencv-python
