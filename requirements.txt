@@ -1,6 +1,7 @@
 streamlit==1.45.1
 transformers==4.35.2
 nltk
+speechrecognition
 moviepy==1.0.3
 pytesseract
 opencv-python-headless
